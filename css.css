@@ -1,0 +1,119 @@
+body {
+    background-color:#2F4F4F;
+}
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 15px;
+}
+a:visited {
+    color: white;
+    background-color:transparent ;
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+    background-color: black;
+   text-decoration: none;
+}
+a:active {
+    color: white;
+    background-color: TRANSPARENT;
+  
+   text-decoration: none;
+}
+ 
+#gg {  
+   
+    
+     margin-top:-22px;
+      margin-left: 175px;
+    margin-right: auto;
+    width:1000px;
+    height:150px;
+    background-image:url(drdo.jpg);
+   background-repeat:no-repeat;
+   background-position:845px;
+    background-color:#778899;
+    color:#A9A9A9;
+    text-align:left;
+    
+   
+}
+#bb{
+    padding-top: 0px;
+    padding-right: 20px;
+    padding-bottom: 14px;
+    padding-left:30px;
+    background-color:#66CC00; 
+ 
+ 
+ 
+ 
+}
+ 
+#header {
+    background-color:#696969;
+    
+    align:centre;
+    width:1000px;
+    margin-left: 175px;
+    margin-right: auto;
+
+
+
+     
+    height:35px;
+    text-align:left;
+    font-family:verdana;
+    font-color:white
+    
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:800px;
+    margin-left:175px;
+    margin-right: auto;
+    width:180px;
+    float:left;
+    	      
+}
+#section {
+    
+   
+    
+    height:800px;
+      background-color:white;
+    width:820px;
+    float:left;
+    	 	 
+}
+#footer {
+margin-left: 175px;
+ width:1000px;
+    
+    background-color:#008B8B;
+    color:white;
+    clear:both;
+    text-align:center;
+   	 	 
+}
+#back {
+    background-color:#696969;
+    
+    
+    width:300px;
+    
+   
+
+
+
+     
+    height:150px;
+    
+    font-family:verdana;
+    font-color:white
+    
+}
